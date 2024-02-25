@@ -1,16 +1,23 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Tran Thanh Loi. I am an student in Information Security. I am interested in the following topics: Game Development. Unity Game Developer.<br>
+## 📫 How to reach me: 
 
-<!--
-**DuuuKieee/DuuuKieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duuukieee/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuuuKieee/) [![My Portfolio](https://i.imgur.com/HZigCIR.png) My Portfolio](https://tranthanhloisd.wixsite.com/duuukieee)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuuuKieee&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/DuuuKieee/ProjectGameDevClub_1">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=ProjectGameDevClub_1-TheFirstWave&theme=radical" />
+</a>    
+<a href="https://github.com/DuuuKieee/Ball-Island-Online---Game-Server-Client-">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=Ball-Island-Online---Game-Server-Client-&theme=radical" />
+</a>
+
+<a href="https://github.com/DuuuKieee/Gaming-Share-Website/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=Gaming-Share-Website&theme=radical" />
+</a>    
