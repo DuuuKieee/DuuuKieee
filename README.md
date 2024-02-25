@@ -8,13 +8,13 @@ My name is Tran Thanh Loi. I am an student in Information Security. I am interes
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuuuKieee&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/DuuuKieee/AxieFarland_AxieGameJam2023/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=AxieFarland_AxieGameJam2023&theme=radical" />
+</a>    
 <a href="https://github.com/DuuuKieee/Luom-GameVietHackathon/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=Luom-GameVietHackathon&theme=radical" />
-</a>    
-<a href="https://github.com/DuuuKieee/ProjectGameDevClub_1">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=ProjectGameDevClub_1-TheFirstWave&theme=radical" />
 </a>    
 <a href="https://github.com/DuuuKieee/Ball-Island-Online---Game-Server-Client-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -23,4 +23,13 @@ My name is Tran Thanh Loi. I am an student in Information Security. I am interes
 <a href="https://github.com/DuuuKieee/Gaming-Share-Website/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=Gaming-Share-Website&theme=radical" />
+</a>    
+<a href="https://github.com/DuuuKieee/ProjectGameDevClub_3-Balland/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=ProjectGameDevClub_3-Balland&theme=radical" />
+</a>    
+
+<a href="https://github.com/DuuuKieee/ProjectGameDevClub_1">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=DuuuKieee&repo=ProjectGameDevClub_1-TheFirstWave&theme=radical" />
 </a>    
