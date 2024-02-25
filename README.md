@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tran Thanh Loi. I am an student in Information Security. I am interested in the following topics: Game Development. Unity Game Developer.<br>
+My name is Tran Thanh Loi. I am a student in Information Security. I am interested in the following topics: Game Development. Unity Game Developer.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duuukieee/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuuuKieee/) [![My Portfolio](https://i.imgur.com/HZigCIR.png) My Portfolio](https://tranthanhloisd.wixsite.com/duuukieee)
